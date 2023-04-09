@@ -1,3 +1,7 @@
+// npm init -y
+// npm i express ejs body-parser mongoose
+// run sever: nodemon app.js
+
 //jshint esversion:6
 
 const express = require('express');
